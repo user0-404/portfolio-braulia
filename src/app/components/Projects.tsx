@@ -30,7 +30,7 @@ const projects = [
     description: 'Dashboard interativo para visualização de dados com gráficos dinâmicos e relatórios personalizáveis.',
     technologies: ['Next.js', 'Recharts', 'Tailwind CSS'],
     gradient: 'from-purple-400 to-pink-500',
-    image: 'https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+    image: 'https://images.unsplash.com/photo-1760199789463-b523db55dd8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjeWJlcnNlY3VyaXR5JTIwZGlnaXRhbCUyMG5ldHdvcmt8ZW58MXx8fHwxNzY0NjMwMzc5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
     codeUrl: 'https://github.com/seuusuario/ecommerce-platform',
     demoUrl: 'https://aurora-projects.vercel.app/',
   },
